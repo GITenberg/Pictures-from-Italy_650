@@ -1,0 +1,43 @@
+_repo: Pictures-from-Italy_650
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stone, Marcus
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '42342'
+    url: http://www.gutenberg.org/2009/agents/42342
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "Pictures from Italy is a travelogue by Charles Dickens, written in 1846.\
+  \ The book reveals the concerns of its author as he presents, according to Kate\
+  \ Flint, the country \"like a chaotic magic-lantern show, fascinated both by the\
+  \ spectacle it offers, and by himself as spectator\".\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '650'
+  wikidata: Q3148901
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'DG'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Travel -- Italy'
+- !lcsh 'Italy -- Description and travel'
+- GITenberg
+title: Pictures from Italy
+url: http://www.gutenberg.org/ebooks/650
+wikipedia:
+- https://fr.wikipedia.org/wiki/Images_d%27Italie
+- https://en.wikipedia.org/wiki/Pictures_from_Italy
+- https://it.wikipedia.org/wiki/Impressioni_italiane
