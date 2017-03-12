@@ -1,5 +1,5 @@
 _repo: Pictures-from-Italy_650
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Stone, Marcus
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '42342'
     url: http://www.gutenberg.org/2009/agents/42342
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -20,6 +23,8 @@ description: "Pictures from Italy is a travelogue by Charles Dickens, written in
   \ The book reveals the concerns of its author as he presents, according to Kate\
   \ Flint, the country \"like a chaotic magic-lantern show, fascinated both by the\
   \ spectacle it offers, and by himself as spectator\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/650#Pictures-from-Italy
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
 identifiers:
